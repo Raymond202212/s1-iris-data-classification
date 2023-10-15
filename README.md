@@ -3,7 +3,6 @@
 
 # S1. IRIS Data Classfication
 
-**[Optional]** If what is being submitted is an individual Lab or Assignment. Otherwise, include a brief one paragraph description about the project.
 
 * *Date Created*: 18 January 2023
 * *Last Modification Date*: 29 May 2022
@@ -16,7 +15,7 @@
 
 ## Getting Started
 
-**[Optional]** Please use Jupyter Notebook or Google Colab to run this ipynb file.
+Please use Jupyter Notebook or Google Colab to run this ipynb file.
 See deployment for notes on how to deploy the project on a live system.
 
 
